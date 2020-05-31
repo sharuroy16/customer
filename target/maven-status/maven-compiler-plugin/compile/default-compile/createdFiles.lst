@@ -1,0 +1,8 @@
+com\customer\repository\LoginRepository.class
+com\customer\config\WebAppInitializer.class
+com\customer\service\CustomerServiceImpl.class
+com\customer\entity\Logindetails.class
+com\customer\service\CustomerService.class
+com\customer\config\JpaConfig.class
+com\customer\config\WebMvcConfig.class
+com\customer\controller\CustomerController.class
