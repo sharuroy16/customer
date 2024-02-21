@@ -3,7 +3,7 @@ Sample java web project on Spring MVC, Hibernate, Spring Data JAP and Java Servl
 
 Check out for more information on the project:
 
-https://medium.com/@sharuroy/how-to-build-a-java-web-application-part-1-2-tools-installation-1e9dbe583067
+https://www.sharudoestech.com/how-to-build-a-java-web-application-using-spring-framework-part-1-3-tools-installation/
 
 Technologies/Tools:
 
@@ -38,8 +38,5 @@ commit;
 
 select * from logindetails;
 
-Check out for more information on the project, setup, explanation and tutorials:
+Reach out to me at: https://www.sharudoestech.com/
 
-https://medium.com/@sharuroy/how-to-build-a-java-web-application-part-1-2-tools-installation-1e9dbe583067
-
-Reach out to me at: Linkedln: https://www.linkedin.com/in/sharuroy/ Instagram: https://www.instagram.com/sharru.roy/
